@@ -1,7 +1,0 @@
-ERROR:1:token recognition error at\d '// If one would like to add/remove/modify user preferences without modi
-ERROR:1:token recognition error at\d '// workspace settings file, then one would need to modify the `settings
-ERROR:1:token recognition error at\d '// - Windows\d %APPDATA%\\Code\\User\\settings.json\\n// - Linux\d $HOME/.con
-ERROR:1:token recognition error at\d '// - Linux\d $HOME/.config/Code/User/settings.json\\n// - Mac\d $HOME/Libr
-ERROR:1:token recognition error at\d '// - Mac\d $HOME/Library/Application Support/Code/User/settings.json\\n{\\
-ERROR:1:mismatched input '}' expecting STRING
-ERROR:1:token recognition error at\d '// ESLint `max-len` rule.\\n}\\n'

@@ -1,4 +1,0 @@
-ERROR:1:token recognition error at\d '// window\\n\\t\\t"activityBar.background"\d "#580000",\\n\\t\\t"tab.inactiveB
-ERROR:1:token recognition error at\d '// editor\\n\\t\\t"editor.background"\d "#390000",\\n\\t\\t"editorGroup.border
-ERROR:1:token recognition error at\d '// UI\\n\\t\\t"debugToolBar.background"\d "#660000",\\n\\t\\t"focusBorder"\d "#
-ERROR:1:mismatched input '}' expecting STRING
