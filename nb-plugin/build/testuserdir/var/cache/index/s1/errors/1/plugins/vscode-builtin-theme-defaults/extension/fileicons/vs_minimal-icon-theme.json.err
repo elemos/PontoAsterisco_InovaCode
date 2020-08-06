@@ -1,0 +1,7 @@
+ERROR:1:token recognition error at\d '// icons by file extension\\n\\t},\\n\\t"fileNames"\d {\\n\\t\\t// icons by fil
+ERROR:1:token recognition error at\d '// icons by file name\\n\\t},\\n\\t"languageIds"\d {\\n\\t\\t// icons by langua
+ERROR:1:token recognition error at\d '// icons by language id\\n\\t},\\n\\t"light"\d {\\n\\t\\t"folderExpanded"\d "_fo
+ERROR:1:token recognition error at\d '// icons by file extension\\n\\t\\t},\\n\\t\\t"fileNames"\d {\\n\\t\\t\\t// icons 
+ERROR:1:token recognition error at\d '// icons by file name\\n\\t\\t},\\n\\t\\t"languageIds"\d {\\n\\t\\t\\t// icons by 
+ERROR:1:token recognition error at\d '// icons by language id\\n\\t\\t}\\n\\t},\\n\\t"highContrast"\d {\\n\\t\\t// overr
+ERROR:1:token recognition error at\d '// overrides for high contrast\\n\\t}\\n}'

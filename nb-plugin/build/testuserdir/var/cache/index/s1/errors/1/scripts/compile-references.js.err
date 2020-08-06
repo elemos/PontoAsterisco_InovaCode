@@ -1,0 +1,5 @@
+ERROR:185:Expected ( but found {
+ERROR:188:Expected , but found console\n            console.error(`error\d ${target
+ERROR:191:Expected ; but found )
+ERROR:206:Invalid return statement
+ERROR:207:Expected eof but found }
