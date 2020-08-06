@@ -10,5 +10,25 @@ Resumo:
     Dessa maneira para criar um objeto de exemplificação, nesse curto periodo de tempo,  do projeto que foi idealizado foi utilizado o Etherpad-lite para suprir o ponto chave 1, foi criado um plugin no netbeans que envia o arquivo .java em foco na IDE para o Etherpad-lite para suprir o ponto chave 2, e por fim foi utilizado um plugin dentro do etherpad-lite que traz um suporte minimo a programação em diversas linguagens para o ponto chave 3.
     
     
+Colocando para funcionar:
+    1°: É necessário primeiramente iniciar o servidor com o etherpad-lite. (necessário ter o node.js instalado)
+        Linux (Pelo prompt)
+            - Abra a pasta etherpad-lite
+            - Abra a pasta bin
+            - Executar o run.sh
+            - Para ver se está tudo ok abra:  http://127.0.0.1:9001 no navegador.
+        Windows
+            - Execute o start.bat com dois cliques ou pelo cmd, ele esta na pasta raiz do etherpa
+    2°: Abra o NetBeans e instale o plugin org-pa.nbm (Plugin está localizado em /nb-plugin/build)
+    3°: Abra um arquivo no NetBeans (Java, JavaScript, HTML)
+    4°: Clique no novo icone que apareceu no taskbar do Netbeans (Duas cabeças ligadas por setas)
+    5°: Veja o arquivo abrir no etherpad, ao fechar a aba do etherpad o arquivo será atualizado no netbeans.
+    OBS: Como o projeto é um protótipo para demosntração o plugin do netbeans está com o endereço setado do servidor local direto em código fonte (Enviado em anexo);
     
- 
+    
+Vale resaltar que pelo curto espaço de tempo foi optado por utilizar implementações prontas para fazer a prova de conceito. 
+
+
+
+Link para projeto original do Etherpad: https://github.com/ether/etherpad-lite
+etherpad utiliza licença apache v2.0
