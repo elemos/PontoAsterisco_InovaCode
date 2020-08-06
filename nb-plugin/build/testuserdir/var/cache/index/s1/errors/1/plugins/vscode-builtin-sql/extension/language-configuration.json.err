@@ -1,0 +1,6 @@
+ERROR:1:token recognition error at\d '// enhancedBrackets\d[\\n\\t// \\t{ openTrigger\d 'n', open\d /begin$/i, clos
+ERROR:1:token recognition error at\d '// \\t{ openTrigger\d 'n', open\d /begin$/i, closeComplete\d 'end', matchCa
+ERROR:1:token recognition error at\d '// \\t{ openTrigger\d 'e', open\d /case$/i, closeComplete\d 'end', matchCas
+ERROR:1:token recognition error at\d '// \\t{ openTrigger\d 'n', open\d /when$/i, closeComplete\d 'then', matchCa
+ERROR:1:token recognition error at\d '// ],\\n\\t// noindentBrackets\d '()',\\n}'
+ERROR:1:token recognition error at\d '// noindentBrackets\d '()',\\n}'

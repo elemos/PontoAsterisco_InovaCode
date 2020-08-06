@@ -1,0 +1,9 @@
+ERROR:1:token recognition error at\d '// enhancedBrackets\d [{\\n\\t// \\ttokenType\d 'tag.tag-$1.xml',\\n\\t// \\top
+ERROR:1:token recognition error at\d '// \\ttokenType\d 'tag.tag-$1.xml',\\n\\t// \\topenTrigger\d '>',\\n\\t// \\tope
+ERROR:1:token recognition error at\d '// \\topenTrigger\d '>',\\n\\t// \\topen\d /<(\\w[\\w\\d]*)([^\\/>]*(?!\\/)>)[^<>]
+ERROR:1:token recognition error at\d '// \\topen\d /<(\\w[\\w\\d]*)([^\\/>]*(?!\\/)>)[^<>]*$/i,\\n\\t// \\tcloseComplet
+ERROR:1:token recognition error at\d '// \\tcloseComplete\d '</$1>',\\n\\t// \\tcloseTrigger\d '>',\\n\\t// \\tclose\d 
+ERROR:1:token recognition error at\d '// \\tcloseTrigger\d '>',\\n\\t// \\tclose\d /<\\/(\\w[\\w\\d]*)\\s*>$/i\\n\\t// }],
+ERROR:1:token recognition error at\d '// \\tclose\d /<\\/(\\w[\\w\\d]*)\\s*>$/i\\n\\t// }],\\n\\n\\t// autoClosingPairs\d 
+ERROR:1:token recognition error at\d '// }],\\n\\n\\t// autoClosingPairs\d  [['\\'', '\\''], ['"', '"'] ]\\n}\\n'
+ERROR:1:token recognition error at\d '// autoClosingPairs\d  [['\\'', '\\''], ['"', '"'] ]\\n}\\n'

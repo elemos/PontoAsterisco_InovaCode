@@ -1,0 +1,15 @@
+ERROR:1:token recognition error at\d '// This theme's colors are based on the original Monokai\d\\n//   #1e1f1c
+ERROR:1:token recognition error at\d '//   #1e1f1c (tab well, borders)\\n//   #272822 (editor background)\\n// 
+ERROR:1:token recognition error at\d '//   #272822 (editor background)\\n//   #414339 (selection)\\n//   #75715
+ERROR:1:token recognition error at\d '//   #414339 (selection)\\n//   #75715e (focus)\\n//   #f8f8f2 (editor fo
+ERROR:1:token recognition error at\d '//   #75715e (focus)\\n//   #f8f8f2 (editor foreground)\\n{\\n\\t"type"\d "d
+ERROR:1:token recognition error at\d '//   #f8f8f2 (editor foreground)\\n{\\n\\t"type"\d "dark",\\n\\t"colors"\d {\\n
+ERROR:1:token recognition error at\d '// needs to be bright so it's readable when another editor group is foc
+ERROR:1:token recognition error at\d '// middle of #272822 and #a6e22e\\n\\t\\t"diffEditor.removedTextBackground
+ERROR:1:token recognition error at\d '// middle of #272822 and #f92672\\n\\t\\t"inputValidation.errorBackground"
+ERROR:1:token recognition error at\d '// middle of #272822 and #f92672\\n\\t\\t"inputValidation.errorBorder"\d "#
+ERROR:1:token recognition error at\d '// middle of #272822 and #e2e22e\\n\\t\\t"inputValidation.warningBorder"\d 
+ERROR:1:token recognition error at\d '// middle of #272822 and #819aff\\n\\t\\t"inputValidation.infoBorder"\d "#8
+ERROR:1:token recognition error at\d '// the bright color with ~75% transparent on the background\\n\\t\\t"termi
+ERROR:1:token recognition error at\d '// hue shifted #A6E22E\\n\\t\\t"terminal.ansiBrightBlue"\d "#819aff", // hu
+ERROR:1:token recognition error at\d '// hue shifted #AE81FF\\n\\t\\t"terminal.ansiBrightMagenta"\d "#AE81FF",\\n\\
